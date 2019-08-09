@@ -2,9 +2,8 @@ import setuptools
 with open("README.md", "r") as fh:
     long_description = fh.read()
 setuptools.setup(
-     name='alorthm',  
-     version='0.1',
-     scripts=['alorthm'] ,
+     name='algorthm',  
+     version='0.2',
      author="Dinak Lal",
      author_email="dinaklal@gmail.com",
      description="A package for studying various Algorithms and visualizing the operations ",
@@ -16,5 +15,4 @@ setuptools.setup(
          "Programming Language :: Python :: 3",
          "License :: OSI Approved :: MIT License",
          "Operating System :: OS Independent",
-     ],
- )
+     ], )
