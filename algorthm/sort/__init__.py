@@ -4,8 +4,10 @@ import sys
 
 sys.path.append('../algorthm')
 
-from algorthm.search.linearSearch import linearSearch
-
+from algorthm.sort.bubbleSort import bubbleSort
+from algorthm.sort.insertionSort import insertionSort
+from algorthm.sort.mergeSort import mergeSort
+        
 
 # arr = os.listdir()
 

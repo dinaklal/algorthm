@@ -8,10 +8,13 @@ Author-email: dinaklal@gmail.com
 License: UNKNOWN
 Description: 
         # algorthm
-        A python package for visualizing and learning algorithms.  
+        A python package for visualizing and learning algorithms. 
+        
+        How to install ?
+        
+        pip install algorthm
         =======
-        # algorthm
-        A python package for visualizing and learning algorithms.  
+         
         
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3

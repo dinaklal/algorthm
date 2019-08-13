@@ -1,8 +1,8 @@
 import pytest
 import sys
-sys.path.append('../search')
-from binarysearch import  Binarysearch
-
-def test_binarysearch():
-    a=Binarysearch([1,2,3],2)
-    
+sys.path.append('../')
+from search import *
+def test_linearSearch():
+    a= linearSearch([1,3,2],4)
+    assert a == -1
+  
