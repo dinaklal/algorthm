@@ -1,6 +1,7 @@
 [
   "algorthm/tests/test_Search.py::test_linearSearch",
   "algorthm/tests/test_Search.py::test_binarySearch",
+  "algorthm/tests/test_Search.py::test_binarySearch_2",
   "algorthm/tests/test_Search.py::test_jumpSearch",
   "algorthm/tests/test_Search.py::test_fibonacciSearch",
   "algorthm/tests/test_Search.py::test_exponentialSearch",

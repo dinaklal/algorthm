@@ -6,6 +6,9 @@ def test_linearSearch():
     a= linearSearch([1,3,2],2)
     assert a == 2
 def test_binarySearch():
+    a= binarySearch([1,3,2],3)
+    assert a == 1
+def test_binarySearch_2():
     a= binarySearch([1,3,2],4)
     assert a == -1
 def test_jumpSearch():
