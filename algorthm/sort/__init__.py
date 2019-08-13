@@ -7,6 +7,8 @@ sys.path.append('../algorthm')
 from algorthm.sort.bubbleSort import bubbleSort
 from algorthm.sort.insertionSort import insertionSort
 from algorthm.sort.mergeSort import mergeSort
+from algorthm.sort.shellSort import shellSort
+from algorthm.sort.selectionSort import selectionSort
         
 
 # arr = os.listdir()

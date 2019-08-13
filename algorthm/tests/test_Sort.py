@@ -11,3 +11,9 @@ def test_mergeSort():
 def test_insertionSort():
     a= insertionSort([1,3,2])
     assert a == [1,2,3]
+def test_shellSort():
+    a= shellSort([1,3,2])
+    assert a == [1,2,3]
+def test_selectionSort():
+    a= selectionSort([1,3,2])
+    assert a == [1,2,3]

@@ -1,3 +1,13 @@
 [
-  "algorthm/tests/test_Search.py::test_linearSearch"
+  "algorthm/tests/test_Search.py::test_linearSearch",
+  "algorthm/tests/test_Search.py::test_binarySearch",
+  "algorthm/tests/test_Search.py::test_jumpSearch",
+  "algorthm/tests/test_Search.py::test_fibonacciSearch",
+  "algorthm/tests/test_Search.py::test_exponentialSearch",
+  "algorthm/tests/test_Search.py::test_interpolationSearch",
+  "algorthm/tests/test_Sort.py::test_bubbleSort",
+  "algorthm/tests/test_Sort.py::test_mergeSort",
+  "algorthm/tests/test_Sort.py::test_insertionSort",
+  "algorthm/tests/test_Sort.py::test_shellSort",
+  "algorthm/tests/test_Sort.py::test_selectionSort"
 ]

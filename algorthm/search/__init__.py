@@ -5,6 +5,11 @@ import sys
 sys.path.append('../algorthm')
 
 from algorthm.search.linearSearch import linearSearch
+from algorthm.search.binarySearch import binarySearch
+from algorthm.search.jumpSearch import jumpSearch
+from algorthm.search.fibonacciSearch import fibonacciSearch 
+from algorthm.search.exponentialSearch import exponentialSearch
+from algorthm.search.interpolationSearch import interpolationSearch
 
 
 # arr = os.listdir()
