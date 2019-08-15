@@ -8,6 +8,7 @@ A python package for visualizing and learning algorithms.
 ## Authors
 
 Dinak Lal V -[www.dinaklal.in]
+dinaklal@gmail.com
 
 ## Usage
 
