@@ -14,5 +14,6 @@ def bubbleSort(list,step=True):
                     temp = list[idx]
                     list[idx] = list[idx+1]
                     list[idx+1] = temp
-        print("\nOutput is ",*list,"\nIf you do not want stepwise results,Please give False as last argument\n",sep="-")
+        if step:
+            print("\nOutput is ",*list,"\nIf you do not want stepwise results,Please give False as last argument\n",sep="-")
         return list

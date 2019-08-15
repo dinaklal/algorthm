@@ -6,8 +6,15 @@ algorthm.egg-info/SOURCES.txt
 algorthm.egg-info/dependency_links.txt
 algorthm.egg-info/top_level.txt
 algorthm/search/__init__.py
+algorthm/search/binarySearch.py
+algorthm/search/exponentialSearch.py
+algorthm/search/fibonacciSearch.py
+algorthm/search/interpolationSearch.py
+algorthm/search/jumpSearch.py
 algorthm/search/linearSearch.py
 algorthm/sort/__init__.py
 algorthm/sort/bubbleSort.py
 algorthm/sort/insertionSort.py
 algorthm/sort/mergeSort.py
+algorthm/sort/selectionSort.py
+algorthm/sort/shellSort.py

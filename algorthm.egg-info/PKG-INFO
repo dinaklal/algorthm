@@ -1,9 +1,9 @@
 Metadata-Version: 2.1
 Name: algorthm
-Version: 0.3
+Version: 0.5
 Summary: A package for studying various Algorithms and visualizing the operations 
 Home-page: https://github.com/dinaklal/algorthm
-Author: Dinak Lal
+Author: Dinak Lal V
 Author-email: dinaklal@gmail.com
 License: UNKNOWN
 Description: 
@@ -20,4 +20,5 @@ Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
+Classifier: Development Status :: 2 - Pre-Alpha
 Description-Content-Type: text/markdown

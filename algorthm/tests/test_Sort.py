@@ -17,3 +17,5 @@ def test_shellSort():
 def test_selectionSort():
     a= selectionSort([1,3,2])
     assert a == [1,2,3]
+def test_bubbleSort_without_steps():
+    a= bubbleSort([1,3,2],False)

@@ -10,5 +10,6 @@
   "algorthm/tests/test_Sort.py::test_mergeSort",
   "algorthm/tests/test_Sort.py::test_insertionSort",
   "algorthm/tests/test_Sort.py::test_shellSort",
-  "algorthm/tests/test_Sort.py::test_selectionSort"
+  "algorthm/tests/test_Sort.py::test_selectionSort",
+  "algorthm/tests/test_Sort.py::test_bubbleSort_without_steps"
 ]
