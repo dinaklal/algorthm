@@ -9,8 +9,8 @@ def test_binarySearch():
     a= binarySearch([1,3,2],3)
     assert a == 1
 def test_binarySearch_2():
-    a= binarySearch([1,3,2],4)
-    assert a == -1
+    a= binarySearch([1,3,2,4,5,6],4)
+    assert a == 4
 def test_jumpSearch():
     a= jumpSearch([1,3,2],4)
     assert a == -1
