@@ -3,7 +3,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 setuptools.setup(
      name='algorthm',  
-     version='0.5',
+     version='0.6',
      author="Dinak Lal V",
      author_email="dinaklal@gmail.com",
      description="A package for studying various Algorithms and visualizing the operations ",
